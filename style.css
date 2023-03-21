@@ -13,6 +13,7 @@ body{
     align-items: center;
     background-image: linear-gradient(to bottom right,rgb(36, 21, 245),red);
 }
+/* style */
 .text_align{
     text-align: center;
 }

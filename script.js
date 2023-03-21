@@ -3,6 +3,8 @@ let string = ""
 let input = document.querySelector('.input_area')
 let buttons = document.querySelectorAll('.btn')
 
+
+// logic
 Array.from(buttons).forEach((button)=>{
     button.addEventListener('click',(e)=>{
         if(e.target.innerHTML == '='){
